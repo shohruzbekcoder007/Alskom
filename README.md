@@ -1,2 +1,0 @@
-# PugUchun
-pug uchun
